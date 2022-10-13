@@ -23,6 +23,18 @@
       "text": "TESTE 5",
       "day": "May 7th at 12:30pm",
       "reminder": false
+    },
+    {
+      "text": "Teste task 6",
+      "day": "may 7th",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Teste task 7",
+      "day": "july 4th",
+      "reminder": true,
+      "id": 7
     }
   ]
 }
